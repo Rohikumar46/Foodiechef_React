@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tomato-Food-delivery
 React Restaurant Application
 This React application is a restaurant platform where users can explore menu items, add items to their cart, place orders, and proceed to checkout. It features a responsive design and utilizes React Router for navigation.
@@ -38,3 +39,7 @@ React:JavaScript library for building user interfaces.<br>
 HTML: Markup language for structuring web pages.<br>
 CSS: Stylesheet language for styling web pages.<br>
 React Router:Declarative routing for React applications.<br>
+=======
+# Foodiechef_React
+Built on MERN
+>>>>>>> 227cea36b8c2aa024cd3c3e9f210062e366863e1
