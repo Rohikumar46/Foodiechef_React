@@ -1,14 +1,14 @@
-<<<<<<< HEAD
-# Tomato-Food-delivery
+
+# Foodie-chef 
 React Restaurant Application
 This React application is a restaurant platform where users can explore menu items, add items to their cart, place orders, and proceed to checkout. It features a responsive design and utilizes React Router for navigation.
 ## Deployment
-The application is deployed and accessible at https://app-food-tomato.netlify.app/
+The application is deployed and accessible at 
 ## ##Features
 
  Sign-in Page: Users can sign in to access additional features <br>
 
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/bce3b2c2-c355-41ef-9ab9-64372d55c373)
+![image]()
 
  Menu Exploration:Users can explore the restaurant's menu items categorized by different food types.<br>
  ![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/bf7d10dc-fec3-4090-8329-8dc7b0488fee)
@@ -31,7 +31,7 @@ Responsive Design: The application is responsive and suitable for various screen
 
 ## Folder Structure
 
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/872837e1-bb58-467b-82f5-73fe788b7e11)
+![image]()
 ## Tech Stack
 The application is built using the following technologies:
 
@@ -42,4 +42,4 @@ React Router:Declarative routing for React applications.<br>
 =======
 # Foodiechef_React
 Built on MERN
->>>>>>> 227cea36b8c2aa024cd3c3e9f210062e366863e1
+
