@@ -20,13 +20,13 @@ Filtering: Users can filter menu items based on various criteria such as categor
 ![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/d3373fe4-0b14-4f89-ade2-cbaec08796b7)
 
 Cart Management: Users can view their cart, remove items, and proceed to checkout.<br>
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/80fba764-bc79-4749-80cb-6dfa675ee8e1)
+![image]()
 
 Order Placement: Users can input delivery information and place orders.<br>
 ![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/de526971-c9c7-4235-93b2-dc2690c25b5d)
 
 Responsive Design: The application is responsive and suitable for various screen sizes.<br>
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/675a6a1c-e7db-4464-82e4-9c6755ddc715)
+![image]()
 
 
 ## Folder Structure
